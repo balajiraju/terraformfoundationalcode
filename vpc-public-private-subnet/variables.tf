@@ -27,3 +27,6 @@ variable "key_path" {
   description = "SSH Public Key path"
   default = "/home/ubuntu/id_rsa.pub"
 }
+
+
+#availability_zone = "${var.availability_zones["zone1"]}"
