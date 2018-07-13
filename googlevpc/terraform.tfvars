@@ -1,0 +1,5 @@
+region          = "europe-west2"
+gcp_project     = "bold-gadget-210004"
+credentials     = "googlekey.json"
+name            = "dev"
+subnet_cidr     = "10.10.0.0/24"
